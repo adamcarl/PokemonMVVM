@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PokemonMVVM</string>
+    <string name="favorites_list_it_empty">Favorites list it empty.</string>
+    <string name="favorites">Favorites</string>
+</resources>
